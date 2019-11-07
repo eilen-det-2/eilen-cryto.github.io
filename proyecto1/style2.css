@@ -1,0 +1,110 @@
+main{
+	width: 100%;
+	max-width: 1024px;
+	margin: auto;
+	padding: auto;
+}
+
+
+body header {
+    background:  #75C1BB;
+	position: relative;
+    width: 100%;
+    height: auto;
+    max-width: 1024px;
+    margin: auto;
+	padding: auto
+}
+
+
+.logo {
+	position: relative;
+	transform: translate(50%, -1%);
+	margin: auto;
+	padding: auto;
+	left: -50px;
+	
+}
+
+
+
+	
+section h1, h2, h3, h4 {
+	position: relative;
+	margin-left: 20%;
+	margin-top: -17%;	
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size:1.4em
+}
+
+section p {
+	position: relative;
+	margin-left: 20%;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 1.2em;
+	border-top: 10px solid  #75C1BB; 
+	padding-top: 15px
+	
+}
+
+section img{
+	position: relative;
+	margin-top: 5%;
+}
+
+
+
+
+.conferencia p {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 1em;
+	
+}
+
+.conferencia h5 {
+	font-size: 1.4em;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	
+}
+
+  li a {
+	width: 200px;
+	height: 200px;
+	display: block;
+	position: relative;
+	
+	}
+
+li  {
+	width: 110px;
+	padding-top: 90px;
+	display: inline-block;
+	position: relative;
+	margin-top: -65px; margin-left: 195px;
+	
+}
+
+
+
+a:hover {
+	text-decoration: none;
+	cursor: pointer;
+	 	
+	
+}
+
+
+a:active{
+	color:#D569A9;
+	
+}
+
+.taku a img {
+    border-top-left-radius: 53px;
+    -webkit-box-shadow: 0 5px 0 0 #75C1BB;
+    box-shadow: 0 5px 0 0 #75C1BB;
+}
+.yugo a img {
+	 -webkit-box-shadow: 0 5px 0 0 #75C1BB;
+    box-shadow: 0 5px 0 0 #75C1BB;
+}
